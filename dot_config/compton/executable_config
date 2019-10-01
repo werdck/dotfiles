@@ -24,10 +24,13 @@ shadow-radius = 5;
 shadow-offset-x = -5;
 shadow-offset-y = -5;
 shadow-opacity = 0.5;
+
 shadow-exclude = [
     "name = 'Notification'",
     "class_g = 'Conky'",
 ];
+
+shadow-ignore-shaped = false;
 
 #################################
 # Opacity
@@ -50,8 +53,9 @@ blur-background-exclude = [
     "window_type = 'desktop'"
 ];
 
-opacity-rule = [ 
-    "90:class_g = 'XTerm'"
+opacity-rule = [
+    "90:class_g = 'XTerm'",
+    "75:class_g = 'URxvt'",
 ];
 
 #################################
