@@ -1,0 +1,16 @@
+XTerm*faceName:	FreeMono:size=20
+xterm*utf8: 	1
+
+Xft.dpi:	168
+
+URxvt*faceName:	FreeMono:size=20
+
+emacs*background:  #605576
+emacs*foreground:  #FCF4C7
+URxvt*foreground:  #C9C9C9
+XTerm*foreground:  #C9C9C9
+URxvt*background:  #252525
+XTerm*background:  #252525
+URxvt*cursorColor: #C9C9C9
+XTerm*cursorColor: #252525
+
