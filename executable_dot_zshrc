@@ -1,0 +1,6 @@
+# Created by newuser for 5.6.2
+
+eval $(thefuck --alias)
+
+HISTSIZE=100000
+SAVEHIST=100000
