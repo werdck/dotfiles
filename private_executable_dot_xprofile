@@ -1,0 +1,4 @@
+nitrogen --restore
+xrdb merge ~/.Xresources
+setxkbmap de nodeadkeys
+xrandr --output DP-2 --mode 3840x2160
